@@ -1,0 +1,47 @@
+#img1 {
+    width: 150px;
+    height: 150px;
+}
+
+#img2 {
+    width: 150px;
+    height: 150px;
+}
+
+#img3 {
+    width: 150px;
+    height: 150px;
+}
+
+#img4 {
+    width: 150px;
+    height: 150px;
+}
+
+body {
+    text-align: center;
+}
+
+.section {
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.qwerty {
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.image-selection {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.selection-style {
+    display: table-cell position:;
+    text-align: center;
+    vertical-align: middle;
+}
